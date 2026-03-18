@@ -1,1 +1,2 @@
-## Como configurara open Claw
+# Open Claw 🦞
+
