@@ -132,4 +132,4 @@ openclaw pairing approve telegram <code>
 </p>
 
 > ### 🚀 ¡Gracias por visitar mi proyecto!  
-> Este repositorio fue impulsado por la potencia de **OpenClaw** y la visión de un desarrollador boliviano. ¡Sigamos construyendo el futuro del Web3 y la IA! 🌍✨
+> Este repositorio fue impulsado por la potencia de **OpenClaw** y la visión de un desarrollador boliviano. ¡Sigamos construyendo el futuro del Web3 y la IA! 🌍
