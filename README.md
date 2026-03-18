@@ -105,3 +105,11 @@ openclaw
 - Qwen (bookmark)
 
 
+## Troubleshooting
+
+### Si aparece `openclaw: command not found`
+
+```bash
+export PATH="/home/ubuntu/.npm-global/bin:$PATH"
+```
+
