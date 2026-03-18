@@ -83,4 +83,20 @@ source ~/.bashrc
 # Ahora sí actualizar npm sin sudo
 npm install -g npm
 ```
+### Instalar OpenClaw
+
+```bash
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
+<blockquote style="background-color: #3e1a1a; border-left: 5px solid #ff4d4d; padding: 10px; color: #ffcccc;">
+  ⏳ La instalación puede tardar unos minutos.
+</blockquote>
+
+### Iniciar OpenClaw
+
+```bash
+openclaw
+```
+
+
 
