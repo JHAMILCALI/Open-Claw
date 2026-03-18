@@ -112,4 +112,8 @@ openclaw
 ```bash
 export PATH="/home/ubuntu/.npm-global/bin:$PATH"
 ```
+## Pairing con Telegram
 
+```bash
+openclaw pairing approve telegram <code>
+```
