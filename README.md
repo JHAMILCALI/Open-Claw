@@ -117,3 +117,19 @@ export PATH="/home/ubuntu/.npm-global/bin:$PATH"
 ```bash
 openclaw pairing approve telegram <code>
 ```
+## Skills y API
+
+[![Instalar Skills en Clawhub](https://img.shields.io/badge/Clawhub-Instalar_Skills-red?style=for-the-badge&logo=gitbook&logoColor=white)](https://clawhub.ai/)
+
+[![Post-Bridge | Agente Social](https://img.shields.io/badge/Post--Bridge-Agente_Social-0077b5?style=for-the-badge&logo=postman&logoColor=white)](https://www.post-bridge.com/)
+
+---
+
+<p align="center">
+  <a href="https://github.com/JhamilCali">
+    <img src="https://img.shields.io/badge/HECHO_PARA_IMPULSAR_IA-JHAMILCALI-orange?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+> ### 🚀 ¡Gracias por visitar mi proyecto!  
+> Este repositorio fue impulsado por la potencia de **OpenClaw** y la visión de un desarrollador boliviano. ¡Sigamos construyendo el futuro del Web3 y la IA! 🌍✨
