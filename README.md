@@ -97,6 +97,11 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 ```bash
 openclaw
 ```
+### Quick start (selección de modelo)
 
+1. Aceptar que conoces los riesgos
+2. **Quick start**
+3. Seleccionar modelo **Qwen**
+- Qwen (bookmark)
 
 
