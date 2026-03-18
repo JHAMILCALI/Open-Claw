@@ -55,3 +55,32 @@ ssh -i "clave-privada.pem" ubuntu@ip-publica
 sudo apt update
 sudo apt upgrade
 ```
+
+## Instalar OpenClaw
+
+### Referencia
+
+- Página de OpenClaw (bookmark)
+
+### Preparar npm (sin sudo)
+
+> Corre esto **línea por línea**.
+> 
+
+```bash
+# Crear directorio para paquetes globales de npm
+mkdir ~/.npm-global
+
+# Configurar npm para usar ese directorio
+npm config set prefix '~/.npm-global'
+
+# Agregar al PATH en tu .bashrc o .profile
+echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
+
+# Aplicar los cambios
+source ~/.bashrc
+
+# Ahora sí actualizar npm sin sudo
+npm install -g npm
+```
+
