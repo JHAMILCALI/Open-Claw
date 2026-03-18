@@ -34,3 +34,24 @@ Link de video de Youtube como obtener la VPS gratuita con el Pack education de G
 
 *Haz clic en la imagen para ver el proceso paso a paso.*
 
+# Pasos para lanzar instancia en AWS
+### 1) Crear la instancia (EC2)
+
+1. Lanzar instancia **EC2**
+2. Imagen: **Ubuntu**
+3. Tipo de instancia: **c7i-flex.large**
+4. Crear **claves privadas**
+5. Storage: **30 GiB**
+#### 1.1) Como conectarse por SSH
+### 📺 Tutorial de Configuración
+[![Ver video](https://img.youtube.com/vi/bbKcUJVUHzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=bbKcUJVUHzM)
+```bash
+ssh -i "clave-privada.pem" ubuntu@ip-publica
+```
+
+### 2) Actualizar el sistema
+
+```bash
+sudo apt update
+sudo apt upgrade
+```
