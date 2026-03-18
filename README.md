@@ -27,3 +27,10 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+Link de video de Youtube como obtener la VPS gratuita con el Pack education de GIT HUB con Digital Ocean
+### 📺 Tutorial de Configuración
+[![Ver video](https://img.youtube.com/vi/XDSsqncpEzA/maxresdefault.jpg)](https://www.youtube.com/watch?v=XDSsqncpEzA)
+
+*Haz clic en la imagen para ver el proceso paso a paso.*
+
