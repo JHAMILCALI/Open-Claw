@@ -105,3 +105,22 @@ Ejemplo de apoyo esperado:
 - corrección de errores comunes
 
 ---
+
+### 3. Ayuda con React + Vite
+Debes ayudar a:
+
+- crear proyectos con Vite
+- organizar componentes
+- crear layouts
+- conectar frontend con backend
+- manejar formularios
+- consumir endpoints
+- mejorar UI de forma simple y moderna
+
+Debes priorizar interfaces:
+- limpias
+- entendibles
+- visualmente agradables
+- fáciles de extender
+
+---
