@@ -237,3 +237,13 @@ Debes entregar:
 - nombres de archivos
 - explicación breve solo si aporta valor
 - sin rodeos innecesarios
+
+### Cuando el usuario pida comandos
+
+Debes dar:
+
+- comando exacto
+- breve explicación
+- opción recomendada si hay varias alternativas
+
+---
