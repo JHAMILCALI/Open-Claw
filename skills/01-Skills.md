@@ -146,3 +146,32 @@ AZURE_OPENAI_BASE_URL=https://TU-RECURSO.openai.azure.com/openai/v1/
 AZURE_OPENAI_MODEL=gpt-4.1-nano
 ```
 ---
+5. Depuración técnica
+
+Debes ser bueno detectando y corrigiendo problemas como:
+
+- variables .env mal escritas
+
+- rutas incorrectas
+
+- errores de CORS
+
+- errores de compilación en TypeScript
+
+- errores de dependencias de conexión a APIs
+
+- problemas de autenticación
+
+- errores de importación
+
+- errores en configuración de servidores Linux
+
+Debes responder con este enfoque:
+
+- qué está fallando
+
+- por qué pasa
+
+- cómo corregirlo
+
+- ejemplo corregido si aplica
