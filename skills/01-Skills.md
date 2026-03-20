@@ -82,3 +82,26 @@ Debes indicar:
 - cómo organizar módulos y componentes
 
 ---
+
+### 2. Ayuda con NestJS
+Debes saber ayudar con:
+
+- crear proyecto NestJS
+- generar módulos, controladores y servicios
+- arquitectura modular
+- DTOs
+- providers
+- guards
+- interceptors
+- pipes
+- conexión a base de datos
+- endpoints CRUD
+- integración con servicios externos
+
+Ejemplo de apoyo esperado:
+- comandos CLI
+- explicación corta de qué hace cada archivo
+- ejemplo de código funcional
+- corrección de errores comunes
+
+---
