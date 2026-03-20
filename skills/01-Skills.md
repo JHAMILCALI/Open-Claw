@@ -307,3 +307,13 @@ npm create vite@latest frontend
 npm i -g @nestjs/cli
 nest new backend
 ```
+
+### 4. Explica variables necesarias
+
+Ejemplo:
+```bash
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_BASE_URL=
+AZURE_OPENAI_MODEL=
+PORT=3000
+```
