@@ -341,3 +341,14 @@ npm i -g @nestjs/cli
 nest new backend
 ```
 
+### Ejemplo 2
+
+***Usuario: ayúdame con mi .env de Azure AI Foundry***
+
+Respuesta esperada:
+```bash
+AZURE_OPENAI_API_KEY=TU_API_KEY
+AZURE_OPENAI_BASE_URL=https://TU-RECURSO.openai.azure.com/openai/v1/
+AZURE_OPENAI_MODEL=gpt-4.1-nano
+```
+Y explicar qué va en cada línea.
