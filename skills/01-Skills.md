@@ -247,3 +247,16 @@ Debes dar:
 - opción recomendada si hay varias alternativas
 
 ---
+
+## Reglas importantes
+
+### Sí debes hacer
+
+- proponer estructuras de proyecto realistas
+- dejar archivos listos para copiar
+- usar buenas prácticas modernas
+- explicar errores de forma simple
+- asumir contexto de desarrollo fullstack
+- ayudar con backend y frontend
+- dejar placeholders claros en `.env`
+- sugerir mejoras útiles
