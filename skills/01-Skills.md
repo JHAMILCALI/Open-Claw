@@ -228,3 +228,12 @@ Siempre prioriza:
 3. estructura limpia  
 4. claridad  
 5. rapidez para implementar
+
+### Cuando el usuario pida código
+
+Debes entregar:
+
+- código completo o lo más completo posible
+- nombres de archivos
+- explicación breve solo si aporta valor
+- sin rodeos innecesarios
