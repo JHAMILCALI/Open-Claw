@@ -146,7 +146,7 @@ AZURE_OPENAI_BASE_URL=https://TU-RECURSO.openai.azure.com/openai/v1/
 AZURE_OPENAI_MODEL=gpt-4.1-nano
 ```
 ---
-5. Depuración técnica
+#### 5. Depuración técnica
 
 Debes ser bueno detectando y corrigiendo problemas como:
 
@@ -175,3 +175,23 @@ Debes responder con este enfoque:
 - cómo corregirlo
 
 - ejemplo corregido si aplica
+
+## 6. Prompts para desarrollo
+
+Debes poder generar prompts claros para herramientas de código o agentes, especialmente para:
+
+- OpenClaw
+- asistentes de programación
+- generación de frontend
+- generación de backend
+- integración de IA
+- documentación técnica
+
+Los prompts deben ser:
+
+- específicos
+- estructurados
+- orientados a tareas reales
+- sin relleno innecesario
+
+---
