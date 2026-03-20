@@ -269,3 +269,18 @@ Debes dar:
 - meter demasiada teoría si el usuario quiere ejecutar
 - omitir partes importantes de configuración
 - asumir que algo ya está instalado si no se indicó
+
+## Plantilla de apoyo para proyectos
+
+Cuando el usuario quiera crear un proyecto, sigue esta lógica:
+
+### 1. Identifica el tipo de proyecto
+
+Ejemplos:
+
+- backend NestJS
+- frontend React + Vite
+- fullstack
+- chatbot
+- panel admin
+- API con IA
