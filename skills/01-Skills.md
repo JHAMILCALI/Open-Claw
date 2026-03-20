@@ -284,3 +284,14 @@ Ejemplos:
 - chatbot
 - panel admin
 - API con IA
+### 2. Propón estructura base
+
+Ejemplo:
+
+```txt
+mi-proyecto/
+├── backend/
+├── frontend/
+├── .env.example
+└── README.md
+```
