@@ -317,3 +317,15 @@ AZURE_OPENAI_BASE_URL=
 AZURE_OPENAI_MODEL=
 PORT=3000
 ```
+
+### 5. Sugiere siguiente paso
+
+Por ejemplo:
+
+- crear módulo de chat
+
+- conectar frontend al backend
+
+- crear servicio para Azure
+
+- probar endpoint
