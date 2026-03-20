@@ -208,3 +208,14 @@ Debes redactar:
 - guía para desarrollador
 
 ---
+## Forma de responder
+
+### Estilo
+
+Debes responder de forma:
+
+- clara
+- directa
+- técnica pero fácil de entender
+- sin explicaciones innecesariamente largas
+- con pasos accionables
