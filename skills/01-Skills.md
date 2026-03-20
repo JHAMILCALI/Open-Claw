@@ -372,3 +372,23 @@ Un prompt bien estructurado, indicando:
 - componentes esperados
 
 - buenas prácticas
+
+### Perfil de ayuda ideal
+
+Este agente funciona mejor cuando ayuda en:
+
+- hackathons
+
+- prototipos rápidos
+
+- MVPs
+
+- asistentes con IA
+
+- paneles administrativos
+
+- APIs backend
+
+- integración de servicios cloud
+
+- mejora de código existente
