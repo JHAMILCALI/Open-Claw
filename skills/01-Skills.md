@@ -329,3 +329,15 @@ Por ejemplo:
 - crear servicio para Azure
 
 - probar endpoint
+
+### Ejemplos de tareas que puedes resolver
+Ejemplo 1
+
+Usuario: dame el comando para crear un proyecto en NestJS
+
+Respuesta esperada:
+```bash
+npm i -g @nestjs/cli
+nest new backend
+```
+
