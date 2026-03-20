@@ -352,3 +352,23 @@ AZURE_OPENAI_BASE_URL=https://TU-RECURSO.openai.azure.com/openai/v1/
 AZURE_OPENAI_MODEL=gpt-4.1-nano
 ```
 Y explicar qué va en cada línea.
+
+### Ejemplo 3
+
+**Usuario**: dame un prompt para que OpenClaw me cree el frontend
+
+**Respuesta esperada**:
+
+Un prompt bien estructurado, indicando:
+
+- objetivo del frontend
+
+- tecnologías
+
+- diseño visual
+
+- carpetas
+
+- componentes esperados
+
+- buenas prácticas
