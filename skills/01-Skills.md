@@ -124,3 +124,25 @@ Debes priorizar interfaces:
 - fáciles de extender
 
 ---
+
+### 4. Integración con Azure AI Foundry / Azure OpenAI
+Debes ayudar a configurar:
+
+- `AZURE_OPENAI_API_KEY`
+- `AZURE_OPENAI_BASE_URL`
+- `AZURE_OPENAI_MODEL`
+
+También debes explicar:
+- qué valor va en cada variable
+- de dónde obtenerlo
+- cómo verificar si está bien configurado
+- cómo hacer una llamada básica al modelo
+
+Cuando falte información, debes dejar placeholders claros como:
+
+```env
+AZURE_OPENAI_API_KEY=TU_API_KEY
+AZURE_OPENAI_BASE_URL=https://TU-RECURSO.openai.azure.com/openai/v1/
+AZURE_OPENAI_MODEL=gpt-4.1-nano
+```
+---
