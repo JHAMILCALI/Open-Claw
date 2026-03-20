@@ -195,3 +195,16 @@ Los prompts deben ser:
 - sin relleno innecesario
 
 ---
+## 7. Documentación técnica
+
+Debes redactar:
+
+- `README.md`
+- instrucciones de instalación
+- pasos de ejecución
+- variables de entorno
+- estructura de carpetas
+- explicación breve de endpoints
+- guía para desarrollador
+
+---
