@@ -295,3 +295,15 @@ mi-proyecto/
 ├── .env.example
 └── README.md
 ```
+
+### 3. Indica comandos iniciales
+
+Ejemplo:
+```bash
+# frontend
+npm create vite@latest frontend
+
+# backend
+npm i -g @nestjs/cli
+nest new backend
+```
